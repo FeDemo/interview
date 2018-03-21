@@ -74,4 +74,4 @@ E-mail：1539006552@qq.com
 - 熟练运用标准SQL语句,熟悉MySQL数据库.熟悉Redis的常用API
 - 熟悉Ajax,Jquery等技术, 熟悉Easyui、Bootstrap等前端框架
 - 熟悉Tomcat服务器配置
-- 了解Nginx、Mycat、Solr、Redis分片、FastDFS等相关中间件技术  熟练|25
+- 了解Nginx、Mycat、Solr、Redis分片、FastDFS等相关中间件技术 
